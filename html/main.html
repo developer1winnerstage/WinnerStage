@@ -1,35 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-   <meta charset="UTF-8">
-   <title>Winner Stage - Registro </title>
-   <link rel="stylesheet" href="style.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.minute.css"/>
-  </head>
-  <body>
-    <div class="wrapped">
-      <h1>Registro.</h1>
-      <h4>Por favor diligenciar el siguente formulario para la creacion del usuario(todos los campos son obligatorios):</h4>
-      <form action="wrapper">
-        <label>Nombre completo</label>
-        <input type="text" placeholder="Ingrese su nombre completo." />
-        <label>Apellidos</label>
-        <input type="text" placeholder="Ingrese sus apellidos." />
-        <label>Numero celular</label>
-        <input type="text" placeholder="Ingrese su numero celular." />
-        <label>Numero de cedula</label>
-        <input type="text" placeholder="Ingrese su numero de cedula." />
-        <label>Correo electronico</label>
-        <input type="email" placeholder="Ingrese su correo electronico." />
-        <label>Contraseña</label>
-        <input type="password" placeholder="Cree una contraseña." />
-        <label>Confirmar contraseña</label>
-        <input type="password" placeholder="Repita la contraseña creada." />
-        <label>Codigo referido</label>
-        <input type="text" placeholder="Ingrese el codigo referido." />
-        <input type="button" value="Submit" />
-        </form>
-    </div>
-  </body>
-</html>
+<html>
 
+<head>
+    <title>Winner Stage - Registro </title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.minute.css" />
+</head>
+
+<body>
+    <h1>Registro.</h1>
+    <h4>Por favor diligenciar el siguente formulario para la creacion del usuario(todos los campos son
+        obligatorios):</h4>
+    <form>
+        <div>
+            <label>Nombre completo</label>
+            <input type="text" id="nombres" nombres="nombres" placeholder="Ingrese su nombre completo." />
+        </div>
+        <div>
+            <label>Apellidos</label>
+            <input type="text" id="apellidos" apellidos="apellidos" placeholder="Ingrese sus apellidos." />
+        </div>
+        <div>
+            <label>Numero celular</label>
+            <input type="text" id="celular" celular="celular" placeholder="Ingrese su numero celular." />
+        </div>
+        <div>
+            <label>Numero de cedula</label>
+            <input type="text" id="cedula" apellidos="cedula" placeholder="Ingrese su numero de cedula." />
+        </div>
+        <div>
+            <label>Correo electronico</label>
+            <input type="email" id="email" apellidos="email" placeholder="Ingrese su correo electronico." />
+        </div>
+        <div>
+            <label>Contraseña</label>
+            <input type="password" id="contraseña" contraseña="contraseña" placeholder="Cree una contraseña." />
+        </div>
+        <div>
+            <label>Confirmar contraseña</label>
+            <input type="password" id="recontraseña" recontraseña="recontraseña"placeholder="Repita la contraseña creada." />
+        </div>
+        <div>
+            <label>Codigo referido</label>
+            <input type="text" placeholder="Ingrese el codigo referido." />
+        </div>
+        <input type="button" value="Resgistrarse" />
+        </div>
+
+    </form>
+
+</body>
+
+</html>
