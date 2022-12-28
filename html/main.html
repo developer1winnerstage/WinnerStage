@@ -11,37 +11,42 @@
     <h1>Registro.</h1>
     <h4>Por favor diligenciar el siguente formulario para la creacion del usuario(todos los campos son
         obligatorios):</h4>
-    <form method="post" action="registro.php">
-        <div>
-            <label for="nombres">Nombre completo</label>
-            <input type="text" id="nombres" nombres="nombres" placeholder="Ingrese su nombre completo." />
-        </div>
-        <div>
-            <label for="apellidos">Apellidos</label>
-            <input type="text" id="apellidos" apellidos="apellidos" placeholder="Ingrese sus apellidos." />
-        </div>
-        <div>
-            <label for="celular">Numero celular</label>
-            <input type="text" id="celular" celular="celular" placeholder="Ingrese su numero celular." />
-        </div>
-        <div>
-            <label for="cedula">Numero de cedula</label>
-            <input type="text" id="cedula" apellidos="cedula" placeholder="Ingrese su numero de cedula." />
-        </div>
-        <div>
-            <label for="email">Correo electronico</label>
-            <input type="email" id="email" apellidos="email" placeholder="Ingrese su correo electronico." />
-        </div>
-        <div>
-            <label for="contraseña">Contraseña</label>
-            <input type="password" id="contraseña" contraseña="contraseña" placeholder="Cree una contraseña." />
-        </div>
-        <div>
-            <label for="recontraseña>Confirmar contraseña</label>
-            <input type=" recontraseña" id="recontraseña" recontraseña="recontraseña"
-                placeholder="Repita la contraseña creada." />
-        </div>
-        <button>Registrarse</button>
-    </form>
+    <center>
+        <form method="post" action="registro.php">
+
+            <div>
+                <label>Nombre completo</label>
+                <input type="text" name="txtnombre" placeholder="Ingrese su usuario.">
+            </div>
+            <div>
+                <label>Apellidos</label>
+                <input type="text" name="txtapellido" placeholder="Ingrese sus apellido.">
+            </div>
+            <div>
+                <label>Numero celular</label>
+                <input type="text" name="txtcelular" placeholder="Ingrese su numero celular.">
+            </div>
+            <div>
+                <label>Numero de cedula</label>
+                <input type="text" name="txtcedula" placeholder="Ingrese su numero de cedula.">
+            </div>
+            <div>
+                <label>Correo electronico</label>
+                <input type="email" name="email_usuario" placeholder="Ingrese un correo electronico.">
+            </div>
+            <div>
+                <label>Contraseña</label>
+                <input type="password" name="txtpassword" placeholder="Cree una contraseña.">
+            </div>
+            <div>
+                <label>Confrimar contraseña</label>
+                <input type="password" name="txtconpassword" placeholder="Repita la contraseña.">
+            </div>
+            <div>
+                <input type="submit" value="Registrarse">
+            </div>
+        </form>
+    </center>
 </body>
+
 </html>
