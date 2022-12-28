@@ -1,0 +1,92 @@
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+WINNERSTAGECO
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Objetivo principal
+
+crear una plataforma online de apuestas deportivas sin licencias
+para vincular aproximadamente tres mil usuarios.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Objetivos especificos
+
+- Crear una web service sin licencia de casino evitando que pueda ser bloqueada con el tiempo.
+- Crear base de datos para alojar datos de usuario y billetera virtual para aproximadamente tres mil usuarios.
+- Alojar una web service en un hosting seguro con plus de cyber seguridad para evitar fraude con lo datos.
+- Crear billetera virtual mediante usuario administrativo quien actualizara estos valores con historial de movimientos.
+- Crear sistema de apuestas mediante porcentajes y calculos brindados por el cliente.
+- Crear imagen corporativa de la plataforma.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+--Tareas para el funcionamiento de la web service--
+
+
+Creacion de usuarios:
+La creacion de usuarios sera realizada mediante un formulario de registro 
+con los siguientes datos (nombre, apellido, cc, correo electronico, numero de celular y cod de bienvenida o ref *VERIFICAR SI HAY ALGUN OTRO DATO*).
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Billetera virtual:
+Cada usuario manejara una billetera virtual, las cifras seran colocadas mediante un usuario administrador quien sera el encargado de actualizar los numeros
+mediante la confirmacion de transferencias bancarias hechas a la cuenta de la empresa. Los valores de la billetera virtual son solo numeros no hay 
+transacciones dentro de la pagina solo aumenta o disminuye su valor dependiendo si gana o pierde su apuesta o si el usuario administrador modifica el valor.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Base de datos de usuarios:
+Esta base de datos sera la encargada de almacenar datos personales de usuario y monto de la billetera virtual.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Sistema de apuestas:
+Ya asignado un valor en la billetera virtual el usuario tendra habilitada la opcion apuesta, 
+(CONFIRMAR %porcentaje DE GANACIA/PERDIDA DE APUESTAS DE USUARIO FINAL)
+(CONFIRMAR %porcentaje DE GANANCIA DE LA EMPRESA)
+(CONFIRMAR SI HABRA INCENTIVOS COMO RACHA O 2 VUELTA ETC)
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+LIGAS Y EVENTOS DEL SISTEMA DE INFORMACION
+
+(CONFIRMAR LOS EVENTOS Y LIGAS QUE ESTARAN EN LA WEB SERVICE)
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+ROLES
+
+USUARIO FINAL:
+
+funciones habilitadas de usuario final:
+
+REGISTRAR | INICIAR SESION | APOSTAR | SALIR | 
+
+
+ADMINISTRADOR DE USUARIOS:
+
+funciones habilitadas de administrador de usuarios:
+
+INICIAR SESION | MODIFICAR BILLETERA VIRTUAL DE USUARIOS | EXPORTAR REPORTES  | SALIR | 
+
+
+ADMINISTRADOR DE SISTEMA DE INFORMACION:
+
+funciones habilitadas de administrador de sistema de informacion:
+
+INICIAR SESION | ADMINISTRAR FUNCIONAMIENTO DE WEB SERVICE | MODIFICAR O ACTUALIZAR EL CODIGO DE WEB SERVICE | SALIR | 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+comunicacion con usuarios y analistas con telegram 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+limites 
+
