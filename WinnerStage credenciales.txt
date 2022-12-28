@@ -5,7 +5,10 @@ contraseña: w1nn3rst4g3
 Correo desarrollador:
 correo: w1nn3rst4g3.user01@outlook.com
 contraseña: w1nn3rst4g3
+
+GitHub:
 username GitHub: developer1winnerstage
+contraseña: w1nn3rst4g3
 
 
 
