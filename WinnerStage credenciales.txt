@@ -7,13 +7,16 @@ correo: w1nn3rst4g3.user01@outlook.com
 contraseña: w1nn3rst4g3
 username GitHub: developer1winnerstage
 
-Correo desarrollador 2:
+FreeSQLdatabase:
+correo: w1nn3rst4g3.user01@outlook.com
+contraseña: w1nn3rst4g3_2022
 
-
-000webhost:
-nombre de la pagina: winnerstage
-correo: w1nn3r_st4g3@hotmail.com
-contraseña: W1nn3rst4g3/jrltyUOu(Ovch67%
+BD FreeSQLdatabase:
+Host: sql10.freesqldatabase.com
+Database name: sql10586991
+Database user: sql10586991
+Database password: 7BbSLm4yQW
+Port number: 3306
 
 
 
