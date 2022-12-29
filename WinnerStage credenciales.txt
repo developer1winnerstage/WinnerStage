@@ -2,18 +2,21 @@ Correo Principal
 correo: w1nn3r_st4g3@hotmail.com
 contraseña: w1nn3rst4g3
 
-Correo desarrollador 1:
+Correo desarrollador:
 correo: w1nn3rst4g3.user01@outlook.com
 contraseña: w1nn3rst4g3
+
+GitHub:
 username GitHub: developer1winnerstage
+contraseña: w1nn3rst4g3
 
-Correo desarrollador 2:
+PlanetScale:
+  NAME          BRANCH   ID             USERNAME               ACCESS HOST URL                    ROLE    ROLE DESCRIPTION               PASSWORD
+ ------------- -------- -------------- ---------------------- ---------------------------------- ------- ------------------------------ -------------------------------------------------------
+  w1nn3rst4g3   main     22qei7j1gx9n   jkt1g5m62887u5b9plgb   aws-sa-east-1.connect.psdb.cloud   admin   Can Read, Write & Administer   pscale_pw_p79ZoZ0RPA9kZjcYPjaIr17DDPWfOTshAzOHQ1oWfCK
 
+INSERT INTO log_in_usuarios (usuario,contasena) values('w1nn3r_st4g3@hotmail.com','w1nn3rst4g3');
 
-000webhost:
-nombre de la pagina: winnerstage
-correo: w1nn3r_st4g3@hotmail.com
-contraseña: W1nn3rst4g3/jrltyUOu(Ovch67%
 
 
 
