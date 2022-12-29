@@ -10,6 +10,11 @@ GitHub:
 username GitHub: developer1winnerstage
 contraseña: w1nn3rst4g3
 
+PlanetScale:
+  NAME          BRANCH   ID             USERNAME               ACCESS HOST URL                    ROLE    ROLE DESCRIPTION               PASSWORD
+ ------------- -------- -------------- ---------------------- ---------------------------------- ------- ------------------------------ -------------------------------------------------------
+  w1nn3rst4g3   main     22qei7j1gx9n   jkt1g5m62887u5b9plgb   aws-sa-east-1.connect.psdb.cloud   admin   Can Read, Write & Administer   pscale_pw_p79ZoZ0RPA9kZjcYPjaIr17DDPWfOTshAzOHQ1oWfCK
+
 
 
 
