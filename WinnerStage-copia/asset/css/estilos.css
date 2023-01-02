@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fondo_menu{
+    background-color: orangered;
+    min-height: 100vh;
+}
+
+.boton{
+    color: grey;
+    border: 1px solid black;
+    margin-left: 15px;
+    text-decoration: black;
+    padding: 6px 8px;
+    border-radius: 8px;
+}
+
+.boton:hover{
+    border: 1px solid black;
+    color: black;
+}
+
+.fondo-login{
+    background-color: orangered;
+    min-height: 100vh;
+    padding-top: 50px;
+}
+
+.login{
+    color: black;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 6px;
+    background-color: orange;
+}    
+
+.login-parts{
+    color: black;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 6px;
+    background-color: gray;
+}
+
+.icon, .titulo{
+    text-align: center;
+    color: black;
+}
+
+.titulo{
+    margin-bottom: 12px;
+}
+
+.icon .dog-icon{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.box-eye{
+    position: relative;
+}
+
+.box-eye button{
+    border:none;
+    position: absolute;
+
+}
+
+.changePassword{
+    position: absolute;
+    top: 12px;
+    left: 320px;
+    color: rgb(51, 47, 47);
+    cursor: pointer;
+}
+
