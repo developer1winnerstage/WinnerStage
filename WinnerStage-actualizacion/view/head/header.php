@@ -1,5 +1,5 @@
 <?php
-    require_once("d://xampp/htdocs/WinnerStage/view/head/head.php");
+    require_once("c://xampp/htdocs/WinnerStage-copia/view/head/head.php");
 ?>
 
 <div class="fondo">
@@ -17,5 +17,5 @@
 <div class="fondo_menu">
 
 <?php
-    require_once("d://xampp/htdocs/WinnerStage/view/head/footer.php");
+    require_once("c://xampp/htdocs/WinnerStage-copia/view/head/footer.php");
 ?>
